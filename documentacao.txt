@@ -1,0 +1,60 @@
+﻿--------------------DOCUMENTACAO PROJETO SODA--------------------
+CRIADOR: JONAS;
+INICIO DO PROJETO: 01/01/2019;
+FINALIZACAO DO PROJETO: INDEFINIDO;
+
+                       Objetivos do SODA
+    O Projeto SODA é um projeto privado, sem previsao de publicacao
+ou compartilhamento;
+    O SODA tem como objetivo, automatizar situacoes simples, como
+em resolver uma equacao matematica, criptografar um texto, entre
+mutas outras coisar;
+    SODA nao foi pensado em ter sistemas complexos, porem , com o
+tempo , vou aperfeiçoando alguns codigos, criando meus proprios
+modulos, sem depender de modulos de terceiros, para evitar futuras
+incompatibilidades;
+    O nome SODA veio de um servidor do DISCORD , o povo estava con
+versando sobre assuntos aleatorios , quando um usuario sugeriu que
+existisse uma linguagem de programacao com o nome de refrigerante,
+SODA.MAIN , ai eu pensei: "E por que eu não crio uma...", e foi a
+partir dai que eu comecei a criar o SODA.
+    Ainda pretendo transformar o SODA em uma linguagem de programacao,
+só falta conhecimento sobre o assunto, MUITO tempo livre e mais alguem
+que se interesse pela area.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        Path Atualizacoes
+Path 1.0 - 01/01/2019
+    - Implementacao do complemento TRIGONOMETRIA no modulo MATEMATICA;
+    - Implementacao do complemento LOGARITMOS no modulo MATEMATICA;
+    - Implementacao do modulo CRIPTOGRAFIA;
+    - Implementacao do complemento CESAR no modulo CRIPTOGRAFIA;
+    - Implementacao da DOCUMENTACAO;
+    - Algumas melhorias e mudancas no codigo.
+
+Path 1.1 - 03/01/2019
+    - Implementacao do comando LIMPAR;
+
+Path 1.2 - 05/01/2019
+    - Implementacao do comando HIPOTENUSA no complemento TRIGONOMETRIA;
+    - Implementacao do comando CATETO no complemento TRIGONOMETRIA;
+    - Implementacao do modulo CONFIG;
+    - Implementacao de SONS;
+        + SOM ao iniciar o sistema;
+        + SOM de erro;
+
+Path 1.3 - 06/01/2019
+    - Novos comandos no modulo DEBUG;
+
+Path 1.4 - 03/03/2019
+    - Implementacao do modulo QUIMICA;
+    - Implementacao do complemento ANALISE no modulo QUIMICA.
+
+Path 1.5 - 04/03/2019
+    - Novo sistema de saída de dados;
+	    + Criacaoo da def Resposta(resposta, tipo);
+    - Implementação em todos os módulos da funcao Resposta;
+    - Implementacao de uma documentacao nas defs;
+    - Criacao de um arquivo dedicado para todos os handlers;
+    - Migracao de todos os handlers para este arquivo;
+------------------------------------------------------------------

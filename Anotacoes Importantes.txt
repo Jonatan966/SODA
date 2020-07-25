@@ -1,0 +1,73 @@
+Tipos Primitivos-------------------------------------
+
++  -> soma
+
+-  -> Subtração 
+
+*  -> Multiplicação
+
+/  -> Divisão
+
+// -> Divisão Inteiro
+
+%  -> Resto
+
+** -> Potenciação
+
+Operacao com Variaveis----------------------------
+
+variavel += 1
+
+variavel -= 1 
+
+variavel *= 1
+
+variavel /= 1 
+
+variavel //= 1
+
+variavel %= 1 
+
+variavel **= 1
+----------------------------------------------------
+Ordem de Precedência
+
+1 = |( )|
+
+2 = |** |
+
+3 = | * | / | // | % |
+
+4 = | + | - |
+ 
+--------------------------------------------------
+Operadores Lógicos:
+
+or - ou
+
+and - e
+
+not - negacao / contrario
+
+Ex: if variavel == 1 or variavel == 2:
+
+
+
+
+--------------------------------------------------
+Importação de Modulos da pasta Nucleo
+
+import sys
+sys.path.append('Nucleo/')
+from Nucleo import *
+--------------------------------------------------
+
+--------------------------------------------------
+Estrutura de repeticao para Listas:
+
+def lista(lista):
+    print('Comandos disponiveis:')
+    for v in lista:
+        print(f'    {v}', end='\n')
+--------------------------------------------------
+
